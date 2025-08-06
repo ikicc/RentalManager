@@ -117,10 +117,6 @@ app/
 
 欢迎贡献代码、报告问题或提出功能建议。请通过GitHub Issues或Pull Requests参与项目开发。
 
-## 许可证
-
-[MIT License](LICENSE)
-
 ## 联系方式
 
-如有问题或建议，请联系项目维护者：example@email.com 
+如有问题或建议，请联系项目维护者：ikic@qq.com
