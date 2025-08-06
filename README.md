@@ -45,7 +45,7 @@
 
 1. 克隆仓库：
    ```bash
-   git clone https://github.com/your-username/rentalmanager.git
+   git clone https://github.com/ikicc/RentalManager.git
    ```
 
 2. 使用Android Studio打开项目
